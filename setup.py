@@ -36,11 +36,11 @@ setuptools.setup(
     python_requires=">=3.6",
     install_requires=[
         "pydantic==1.8.2",
-        "typing-extensions==3.10.0.2",
+        "typing-extensions==4.4.0",
         "word2number==1.1",
         "timefhuman==0.0.5",
         "pendulum==2.1.2",
-        "typing-extensions==3.10.0.2",
+        "typing-extensions==4.4.0",
         "setuptools",
     ],
     # extras_require='requirements.txt',
